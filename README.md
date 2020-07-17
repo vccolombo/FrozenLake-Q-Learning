@@ -1,5 +1,7 @@
 # Solucionando o FrozenLake com Q-Learning 
 
+![demo](gif.gif)
+
 Trabalho realizado em 2018 para a disciplina de Inteligência Artifical, da Universidade Federal de São Carlos.
 
 Foi pedido para escrever [um artigo](artigo.pdf) baseado na resolução do problema.
